@@ -14,8 +14,8 @@
     "@instructure/ui-themeable": "^5.52.3"
   },
   "devDependencies": {
-    "@instructure/ui-babel-preset": "^5.52.3",
+    "@instructure/ui-babel-preset": "^8.30.0",
     "@instructure/ui-eslint-config": "^5.52.3",
-    "@instructure/ui-webpack-config": "^5.52.3"
+    "@instructure/ui-webpack-config": "^8.30.0"
   }
 }
